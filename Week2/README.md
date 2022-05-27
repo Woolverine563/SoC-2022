@@ -14,5 +14,5 @@ As part of this, we were introduced to:
 2) The _Deustch-Jozsa_ Algorithm which uses the superposition of quantum states to classify a Quantum Oracle as balanced or constant.
 3) The _Bernstein-Vazirani_ Algorithm which involves finding a string used by a function Oracle.
 4) Quantum Teleportation which allows the communication of 2 real numbers with precision using only 2 bits of communication. This uses the principle of Quantum **Entanglement** and collapse (_projection onto an eigenspace_) of an entangled system on Measurement.
-5) Superdense coding which uses similar conceps to **safely** transmit a 2-bit string using a single qubit.
+5) Superdense coding which uses similar concepts to **safely** transmit a 2-bit string using a single qubit.
 6) Logic used in Quantum Circuits by trying to simulate **+, <, ++** operations modulo 8 with 3-qubit systems.
