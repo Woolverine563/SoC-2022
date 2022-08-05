@@ -1,1 +1,1 @@
-The implementation of Grover's Algorithm has been skipped since a quite general version of the same has been implemented in QC_eval2.ipynb.
+The implementation of Grover's Algorithm has been skipped since a quite general version of the same has been implemented in QC_eval2.ipynb: https://github.com/Woolverine563/SoC-2022/blob/main/QC%20Evaluation/QC_eval2.ipynb
